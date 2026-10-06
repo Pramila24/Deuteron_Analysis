@@ -398,23 +398,5 @@ void heep_svd_model2()
 
 
 
-
-Wdata = np.array([9.441e-01 ])
-Wdata_err = np.array([2.476e-02])
-Wsimc = np.array([9.448e-01])
-Wsimc_err = np.array([2.2478e-02])
-
-Emdata = np.array([1.876e-03])
-Emdata_err = np.array([7.22e-03])
-Emsimc = np.array([5.091e-03])
-Emsimc_err = np.array([8.245e-03])
-
-PmXdata = np.array([3.4e-03 ])
-PmXdata_err = np.array([1.028e-02])
-PmXsimc = np.array([6.599e-04])
-PmXsimc_err = np.array([1.056e-02])
-
-PmZdata = np.array([2.525e-03])
-PmZdata_err = np.array([8.808e-03])
 PmZsimc = np.array([3.485e-03])
 PmZsimc_err = np.array([7.48e-03])
