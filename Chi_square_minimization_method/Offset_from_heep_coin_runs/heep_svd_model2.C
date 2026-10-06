@@ -398,5 +398,3 @@ void heep_svd_model2()
 
 
 
-PmZsimc = np.array([3.485e-03])
-PmZsimc_err = np.array([7.48e-03])
